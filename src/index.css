@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home{
+  background: rgb(49,80,241);
+background: linear-gradient(180deg, rgba(49,80,241,1) 38%, rgba(231,59,59,1) 100%);
+}
+.bgImage{
+  background-image: url('https://www.smartsys.be/wp-content/uploads/2020/02/Image-block.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.customer{
+  background: rgb(67,39,227);
+background: linear-gradient(162deg, rgba(67,39,227,1) 9%, rgba(241,61,58,1) 100%);
+}
